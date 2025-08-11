@@ -1,6 +1,6 @@
 const dados = {
     labels: ["Nome1", "Nome2", "Nome3", "Nome4", "Nome5", "Nome6"],
-    valores: [30, 20, 20, 20, 10, 10] // Adicionado o sexto valor
+    valores: [30, 20, 15, 15, 10, 10] // Adicionado o sexto valor
   };
   
   // Gráfico de Pizza com 6 divisões
